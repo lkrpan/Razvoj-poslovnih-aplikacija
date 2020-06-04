@@ -1,2 +1,0 @@
-# Razvoj-poslovnih-aplikacija
-zadaca
